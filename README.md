@@ -19,3 +19,15 @@ Topics:
 
 Practical Project:
 Multi-Tenant SaaS Backend
+
+
+[ ] PHP OOP
+[ ] MySQL
+[ ] Eloquent
+[ ] REST API
+[ ] Sanctum
+[ ] Authorization
+[ ] Service Layer
+[ ] Queue + Redis
+[ ] Performance + Security
+[ ] Multi-Tenancy
